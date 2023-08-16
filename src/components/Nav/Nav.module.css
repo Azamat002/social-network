@@ -1,0 +1,20 @@
+.nav {
+  grid-area: n;
+  background-color: bisque;
+  padding: 20px;
+}
+
+.item {
+  color: white;
+}
+.item a{
+  text-decoration: none;
+  font-size: 20px;
+}
+.activeLink{
+  color: gold;
+}
+.friends{
+  background-color: cadetblue;
+  color: white;
+}
